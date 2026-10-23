@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "packageName": "com.metosapps.weatherlive",
+  "store": "galaxy",
+  "revision": 1,
+  "ads": {
+    "mode": "test",
+    "enabled": true,
+    "banner": { "enabled": true, "unitId": "ca-app-pub-3940256099942544/6300978111" },
+    "native": { "enabled": true, "unitId": "ca-app-pub-3940256099942544/2247696110" },
+    "interstitial": { "enabled": true, "unitId": "ca-app-pub-3940256099942544/1033173712", "minIntervalSeconds": 180 },
+    "appOpen": { "enabled": false, "unitId": "ca-app-pub-3940256099942544/9257395921", "minIntervalSeconds": 300 }
+  },
+  "links": {
+    "website": "https://metosapps.github.io/weather-live/",
+    "privacyPolicy": "https://metosapps.github.io/weather-live/privacy.html",
+    "terms": "https://metosapps.github.io/weather-live/terms.html",
+    "supportEmail": "alendatofall@gmail.com",
+    "galaxyStore": "https://galaxystore.samsung.com/detail/com.metosapps.weatherlive"
+  }
+}
