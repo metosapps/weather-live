@@ -2,14 +2,28 @@
   "schemaVersion": 1,
   "packageName": "com.metosapps.weatherlive",
   "store": "galaxy",
-  "revision": 3,
+  "revision": 4,
   "ads": {
-    "mode": "test",
+    "mode": "production",
     "enabled": false,
-    "banner": { "enabled": false, "unitId": "ca-app-pub-3940256099942544/6300978111" },
-    "native": { "enabled": false, "unitId": "ca-app-pub-3940256099942544/2247696110" },
-    "interstitial": { "enabled": false, "unitId": "ca-app-pub-3940256099942544/1033173712", "minIntervalSeconds": 180 },
-    "appOpen": { "enabled": false, "unitId": "ca-app-pub-3940256099942544/9257395921", "minIntervalSeconds": 300 }
+    "banner": {
+      "enabled": false,
+      "unitId": "ca-app-pub-8624552062564321/1860285612"
+    },
+    "native": {
+      "enabled": false,
+      "unitId": "ca-app-pub-8624552062564321/1780480282"
+    },
+    "interstitial": {
+      "enabled": false,
+      "unitId": "ca-app-pub-8624552062564321/6701634470",
+      "minIntervalSeconds": 180
+    },
+    "appOpen": {
+      "enabled": false,
+      "unitId": "ca-app-pub-8624552062564321/2331766745",
+      "minIntervalSeconds": 300
+    }
   },
   "links": {
     "website": "https://metosapps.github.io/weather-live/",
