@@ -2,13 +2,13 @@
   "schemaVersion": 1,
   "packageName": "com.metosapps.weatherlive",
   "store": "galaxy",
-  "revision": 2,
+  "revision": 3,
   "ads": {
     "mode": "test",
-    "enabled": true,
-    "banner": { "enabled": true, "unitId": "ca-app-pub-3940256099942544/6300978111" },
+    "enabled": false,
+    "banner": { "enabled": false, "unitId": "ca-app-pub-3940256099942544/6300978111" },
     "native": { "enabled": false, "unitId": "ca-app-pub-3940256099942544/2247696110" },
-    "interstitial": { "enabled": true, "unitId": "ca-app-pub-3940256099942544/1033173712", "minIntervalSeconds": 180 },
+    "interstitial": { "enabled": false, "unitId": "ca-app-pub-3940256099942544/1033173712", "minIntervalSeconds": 180 },
     "appOpen": { "enabled": false, "unitId": "ca-app-pub-3940256099942544/9257395921", "minIntervalSeconds": 300 }
   },
   "links": {
